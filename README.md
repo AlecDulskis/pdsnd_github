@@ -10,6 +10,8 @@ Project: Post Your Work on GitHub
 This project is practicing the use of GitHub and version control. It is also the final project in the Udacity Data program.
 
 ### Files used
+This project utilizes python and csv files from earlier in the course as outlined below.
+
 1. bikeshare.py
 2. chicago.csv
 3. new_york_city.csv
