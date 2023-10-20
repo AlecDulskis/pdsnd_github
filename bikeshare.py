@@ -1,6 +1,9 @@
 import time
 import pandas as pd
 import numpy as np
+/*
+This file references the CSV files chicago, new_york_city and washington
+*/
 
 CITY_DATA = { 'Chicago': 'chicago.csv',
               'New York City': 'new_york_city.csv',
