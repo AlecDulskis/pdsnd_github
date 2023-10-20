@@ -7,13 +7,13 @@
 Project: Post Your Work on GitHub
 
 ### Description
-This project is practicing the use of GitHub and version control. 
+This project is practicing the use of GitHub and version control. It is also the final project in the Udacity Data program.
 
 ### Files used
-1.bikeshare.py
-1.chicago.csv
-1.new_york_city.csv
-1.washington.csb
+1. bikeshare.py
+2. chicago.csv
+3. new_york_city.csv
+4. washington.csv
 
 ### Credits
 This was built using for readme documentation [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
