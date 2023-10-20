@@ -6,6 +6,8 @@ Include the date you created this project and README file.
 ### Project Title
 Replace the Project Title
 
+This project uses a remote repository!
+
 ### Description
 Describe what your project is about and what it does
 
