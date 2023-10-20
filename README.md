@@ -7,11 +7,15 @@
 Project: Post Your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+This project is practicing the use of GitHub and version control. 
 
 ### Files used
-Include the files used
+1.bikeshare.py
+1.chicago.csv
+1.new_york_city.csv
+1.washington.csb
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This was built using for readme documentation [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+This was built using and the forked project [pdsnd_gitub](https://github.com/udacity/pdsnd_github)
 
